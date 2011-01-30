@@ -1,5 +1,5 @@
 %define upstream_name    Catalyst-Action-REST
-%define upstream_version 0.87
+%define upstream_version 0.89
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
